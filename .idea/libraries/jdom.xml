@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdom">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/development/source/svn/wikid3/trunk/shared-jars/jdom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

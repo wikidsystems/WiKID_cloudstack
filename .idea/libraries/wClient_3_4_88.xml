@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="wClient-3.4.88">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/wClient-3.4.88.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/wClient-3.4.88.jar!/" />
+    </SOURCES>
+  </library>
+</component>

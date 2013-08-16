@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WiKIDUserAuthenticator">
+    <output-path>$PROJECT_DIR$/out/artifacts/WiKIDUserAuthenticator</output-path>
+    <root id="archive" name="WiKIDUserAuthenticator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="cloudstack" />
+      <element id="file-copy" path="$PROJECT_DIR$/README.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/cloustack-example.properties" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/wClient-3.4.88.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/development/source/svn/wikid3/trunk/shared-jars/jdom.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/development/lib/log4j/apache-log4j-1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

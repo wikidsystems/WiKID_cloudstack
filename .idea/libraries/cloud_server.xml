@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cloud-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cloud-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cloud-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cloud-utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
